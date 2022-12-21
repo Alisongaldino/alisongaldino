@@ -2,6 +2,8 @@
 <div align="center">
   <a href="https://github.com/Alisongaldino">
   <img height="190em" width="900" src="https://github-readme-stats.vercel.app/api?username=Alisongaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </div>
+  <div align="center">
   <img height="80em" width="10000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisongaldino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
