@@ -1,7 +1,7 @@
 ## Oiii eu sou o Alison Galdino, estudante e apreciador da programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Alisongaldino">
-  <img height="130em" width="30" src="https://github-readme-stats.vercel.app/api?username=Alisongaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" width="1000" src="https://github-readme-stats.vercel.app/api?username=Alisongaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alisongaldino&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
